@@ -21,7 +21,9 @@
 <hr>
 <h2> Views :</h2>
 <p>Home page </p>
-![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/77a0224a-1728-445c-9405-bc3ebfa279c0)
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/0a915175-62d1-408c-9ab8-fe4835d68a6f)
+
 
 
 
