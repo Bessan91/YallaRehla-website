@@ -34,7 +34,31 @@
 ![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/f15cd957-2d91-4f89-80e1-6e1da5678cfd)
 
 
+<h3> Available Tours section </h3>
 
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/a5c84711-0719-4cc5-b029-adc0d2173746)
+
+<h3>Suggest Tour section: </h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/e4318604-4371-4bdf-9fac-15b3b28f54ee)
+
+<h3> Wishlist popup</h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/933ba10f-88e6-45d9-b2a7-99bea3906237)
+
+
+<h3>Notification Pupup:</h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/e124cb77-caf7-4585-a944-66eb37b19587)
+
+<h3> Feedback Tour section:</h3>
+
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/533f47f5-d1ea-4e4c-9e6c-a1debfa9b209)
+
+<h3>User profile:</h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/97b32f1c-2022-44bd-9120-ebdee63e1349)
 
 
 
