@@ -20,9 +20,23 @@
 </ul>
 <hr>
 <h2> Views :</h2>
-<p>Home page </p>
+<h3>Home page </h3>
 
 ![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/0a915175-62d1-408c-9ab8-fe4835d68a6f)
+
+
+<h3> Login popup </h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/514f4939-0ad3-464f-960c-d422fcd3d067)
+
+<h3> Join us popup </h3>
+
+![image](https://github.com/Bessan91/YallaRehla-website/assets/109364643/f15cd957-2d91-4f89-80e1-6e1da5678cfd)
+
+
+
+
+
 
 
 
